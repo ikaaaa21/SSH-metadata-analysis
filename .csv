@@ -1,0 +1,1125 @@
+0,2026-02-12 18:27:11.372222,192.168.56.102,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,2026-02-12 18:27:11.374612,server to client,0.00239,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+66,192.168.56.102,client to server,2026-02-12 18:27:11.376807,0.002195,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.025969,client to server,2026-02-12 18:27:11.402776,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:11.403474,102,0.000698,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.018923,102,client to server,2026-02-12 18:27:11.422397,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:11.422795,192.168.56.102,0.000398,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.019574,2026-02-12 18:27:11.442369,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:11.442830,102,server to client,0.000461,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:11.464625,0.021795,192.168.56.102,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:11.465411,192.168.56.102,0.000786,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.027457,102,client to server,2026-02-12 18:27:11.492868,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:11.496468,192.168.56.102,102,0.0036,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:11.503080,102,0.006612,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:11.504207,192.168.56.102,102,server to client,0.001127,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:11.523556,192.168.56.102,102,client to server,0.019349,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:11.524479,0.000923,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.018326,102,client to server,2026-02-12 18:27:11.542805,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.000879,2026-02-12 18:27:11.543684,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.019174,2026-02-12 18:27:11.562858,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.000699,2026-02-12 18:27:11.563557,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.018388,2026-02-12 18:27:11.581945,192.168.56.102,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.000814,102,2026-02-12 18:27:11.582759,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:11.603012,102,0.020253,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.000851,2026-02-12 18:27:11.603863,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.018732,2026-02-12 18:27:11.622595,192.168.56.102,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:11.623924,0.001329,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.020704,2026-02-12 18:27:11.644628,192.168.56.102,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000901,192.168.56.102,102,2026-02-12 18:27:11.645529,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:11.664352,192.168.56.102,102,0.018823,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.001078,102,server to client,2026-02-12 18:27:11.665430,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.019512,2026-02-12 18:27:11.684942,192.168.56.102,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:11.685776,102,server to client,0.000834,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:11.705441,102,client to server,0.019665,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:11.705831,192.168.56.102,102,server to client,0.00039,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.021715,102,client to server,2026-02-12 18:27:11.727546,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,2026-02-12 18:27:11.728616,server to client,0.00107,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:11.748324,102,client to server,0.019708,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:11.749547,102,server to client,0.001223,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.017907,client to server,2026-02-12 18:27:11.767454,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.00105,102,server to client,2026-02-12 18:27:11.768504,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.01987,192.168.56.102,102,client to server,2026-02-12 18:27:11.788374,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.000672,server to client,2026-02-12 18:27:11.789046,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:11.811265,192.168.56.102,102,client to server,0.022219,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.001578,102,server to client,2026-02-12 18:27:11.812843,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.01847,2026-02-12 18:27:11.831313,192.168.56.102,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.000468,2026-02-12 18:27:11.831781,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:11.852449,192.168.56.102,102,0.020668,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000735,192.168.56.102,102,2026-02-12 18:27:11.853184,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:11.873918,192.168.56.102,102,client to server,0.020734,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.000605,102,2026-02-12 18:27:11.874523,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.019061,client to server,2026-02-12 18:27:11.893584,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:11.894817,0.001233,192.168.56.102,118,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.013609,2026-02-12 18:27:11.908426,server to client,262,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+238,192.168.56.102,2026-02-12 18:27:11.909803,server to client,0.001377,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+66,192.168.56.102,client to server,0.001089,2026-02-12 18:27:11.910892,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:11.911067,192.168.56.102,0.000175,server to client,174,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+66,0.003481,192.168.56.102,client to server,2026-02-12 18:27:11.914548,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,client to server,2026-02-12 18:27:11.917133,192.168.56.103,0.002585
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000374,192.168.56.102,102,2026-02-12 18:27:11.917507,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+66,192.168.56.102,2026-02-12 18:27:11.970339,client to server,0.052832,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,client to server,2026-02-12 18:27:11.971856,0.001517,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.001026,192.168.56.102,2026-02-12 18:27:11.972882,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+66,192.168.56.102,0.002576,client to server,2026-02-12 18:27:11.975458,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.012073,192.168.56.102,102,0.036615,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.012677,0.000604,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,2026-02-12 18:27:12.031678,client to server,0.019001,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,2026-02-12 18:27:12.031985,server to client,0.000307,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.052669,102,0.020684,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.000316,102,2026-02-12 18:27:12.052985,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.020315,192.168.56.102,102,2026-02-12 18:27:12.073300,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.000462,2026-02-12 18:27:12.073762,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.094653,102,0.020891,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,2026-02-12 18:27:12.095059,0.000406,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.019627,client to server,2026-02-12 18:27:12.114686,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.115052,192.168.56.102,102,0.000366,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.135453,192.168.56.102,102,client to server,0.020401,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.135762,102,0.000309,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.019205,192.168.56.102,2026-02-12 18:27:12.154967,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.000493,102,server to client,2026-02-12 18:27:12.155460,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,client to server,2026-02-12 18:27:12.175280,0.01982,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.175607,192.168.56.102,0.000327,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.195679,192.168.56.102,102,0.020072,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.196208,102,server to client,0.000529,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.019759,2026-02-12 18:27:12.215967,192.168.56.102,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.000439,102,2026-02-12 18:27:12.216406,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,client to server,0.01911,2026-02-12 18:27:12.235516,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.235884,0.000368,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.019664,192.168.56.102,2026-02-12 18:27:12.255548,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.255943,192.168.56.102,102,0.000395,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.019566,192.168.56.102,102,client to server,2026-02-12 18:27:12.275509,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,server to client,2026-02-12 18:27:12.275830,0.000321,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.022147,192.168.56.102,2026-02-12 18:27:12.297977,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000511,192.168.56.102,102,2026-02-12 18:27:12.298488,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.320462,192.168.56.102,102,0.021974,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,2026-02-12 18:27:12.320963,server to client,0.000501,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.339384,192.168.56.102,102,0.018421,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.339805,192.168.56.102,102,0.000421,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.359604,192.168.56.102,0.019799,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.360540,102,0.000936,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.017317,192.168.56.102,2026-02-12 18:27:12.377857,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,2026-02-12 18:27:12.378400,server to client,0.000543,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,client to server,0.020153,2026-02-12 18:27:12.398553,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,2026-02-12 18:27:12.398943,server to client,0.00039,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.021368,102,client to server,2026-02-12 18:27:12.420311,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.420744,192.168.56.102,102,server to client,0.000433,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.440484,192.168.56.102,102,0.01974,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.440947,102,0.000463,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.021494,192.168.56.102,2026-02-12 18:27:12.462441,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.462875,192.168.56.102,102,0.000434,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.486956,102,client to server,0.024081,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.487460,102,0.000504,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.023994,192.168.56.102,2026-02-12 18:27:12.511454,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.512021,0.000567,192.168.56.102,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.538129,192.168.56.102,102,0.026108,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.538671,102,192.168.56.103,server to client,0.000542
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.019302,192.168.56.102,102,client to server,2026-02-12 18:27:12.557973,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.000615,2026-02-12 18:27:12.558588,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.578595,0.020007,192.168.56.102,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.579514,192.168.56.102,102,server to client,0.000919,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.022703,2026-02-12 18:27:12.602217,192.168.56.102,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.602679,102,0.000462,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.615466,192.168.56.102,102,0.012787,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.000398,102,server to client,2026-02-12 18:27:12.615864,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.636394,192.168.56.102,102,0.02053,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,server to client,2026-02-12 18:27:12.636715,0.000321,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,client to server,0.02011,192.168.56.103,2026-02-12 18:27:12.656825
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.657474,192.168.56.102,0.000649,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.681752,192.168.56.102,102,0.024278,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.682424,102,0.000672,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.698667,102,0.016243,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.699074,192.168.56.102,102,0.000407,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.719491,192.168.56.102,102,client to server,0.020417,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000401,2026-02-12 18:27:12.719892,192.168.56.102,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.740393,102,0.020501,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000637,192.168.56.102,102,server to client,2026-02-12 18:27:12.741030,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.760488,192.168.56.102,102,client to server,0.019458,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.761091,102,0.000603,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.019426,2026-02-12 18:27:12.780517,192.168.56.102,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,2026-02-12 18:27:12.780838,server to client,0.000321,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.801678,192.168.56.102,0.02084,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,2026-02-12 18:27:12.802067,server to client,192.168.56.103,0.000389
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.018788,2026-02-12 18:27:12.820855,192.168.56.102,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000317,192.168.56.102,102,2026-02-12 18:27:12.821172,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,client to server,2026-02-12 18:27:12.841339,0.020167,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000748,192.168.56.102,2026-02-12 18:27:12.842087,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.021119,192.168.56.102,2026-02-12 18:27:12.863206,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.000467,102,2026-02-12 18:27:12.863673,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.019052,192.168.56.102,2026-02-12 18:27:12.882725,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,server to client,0.000682,192.168.56.103,2026-02-12 18:27:12.883407
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.019234,192.168.56.102,2026-02-12 18:27:12.902641,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,2026-02-12 18:27:12.903045,server to client,0.000404,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,client to server,0.020249,2026-02-12 18:27:12.923294,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.923673,102,0.000379,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.020034,2026-02-12 18:27:12.943707,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:12.944224,102,0.000517,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.02002,102,client to server,192.168.56.103,2026-02-12 18:27:12.964244
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,2026-02-12 18:27:12.964583,0.000339,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.018406,client to server,2026-02-12 18:27:12.982989,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:12.983523,192.168.56.102,102,0.000534,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:13.004716,102,client to server,0.021193,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.007261,192.168.56.102,102,0.002545,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,client to server,0.02272,2026-02-12 18:27:13.029981,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.002857,192.168.56.102,2026-02-12 18:27:13.032838,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.015887,192.168.56.102,2026-02-12 18:27:13.048725,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000318,2026-02-12 18:27:13.049043,192.168.56.102,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.019588,client to server,2026-02-12 18:27:13.068631,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.069221,192.168.56.102,0.00059,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:13.088612,102,0.019391,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.001135,192.168.56.102,102,server to client,2026-02-12 18:27:13.089747,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:13.109276,102,client to server,0.019529,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.000559,2026-02-12 18:27:13.109835,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.02171,client to server,2026-02-12 18:27:13.131545,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.132302,192.168.56.102,0.000757,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.018608,192.168.56.102,102,client to server,2026-02-12 18:27:13.150910,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000804,192.168.56.102,2026-02-12 18:27:13.151714,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.020772,192.168.56.102,102,client to server,2026-02-12 18:27:13.172486,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.172865,192.168.56.102,102,0.000379,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.021519,2026-02-12 18:27:13.194384,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.000504,2026-02-12 18:27:13.194888,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.215401,192.168.56.102,102,client to server,0.020513,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.216401,192.168.56.102,102,192.168.56.103,server to client,0.001
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.019857,192.168.56.102,2026-02-12 18:27:13.236258,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,server to client,0.000364,2026-02-12 18:27:13.236622,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:13.255571,0.018949,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.257505,192.168.56.102,102,0.001934,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.018399,192.168.56.102,102,client to server,2026-02-12 18:27:13.275904,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.276842,192.168.56.102,0.000938,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:13.296689,102,client to server,0.019847,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.297746,192.168.56.102,102,server to client,0.001057,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.316546,192.168.56.102,0.0188,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.000718,102,2026-02-12 18:27:13.317264,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.020932,client to server,2026-02-12 18:27:13.338196,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.00109,102,2026-02-12 18:27:13.339286,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.02257,client to server,2026-02-12 18:27:13.361856,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.000908,server to client,2026-02-12 18:27:13.362764,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.018094,192.168.56.102,102,2026-02-12 18:27:13.380858,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,2026-02-12 18:27:13.382595,server to client,0.001737,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,client to server,2026-02-12 18:27:13.401638,0.019043,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000372,192.168.56.102,2026-02-12 18:27:13.402010,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.02056,102,client to server,2026-02-12 18:27:13.422570,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.000938,102,server to client,2026-02-12 18:27:13.423508,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.444276,192.168.56.102,0.020768,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.000425,102,2026-02-12 18:27:13.444701,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.019022,102,client to server,2026-02-12 18:27:13.463723,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:13.464196,102,server to client,0.000473,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.020011,192.168.56.102,2026-02-12 18:27:13.484207,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000483,192.168.56.102,102,server to client,2026-02-12 18:27:13.484690,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.021047,102,client to server,2026-02-12 18:27:13.505737,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000845,192.168.56.102,102,2026-02-12 18:27:13.506582,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.020094,192.168.56.102,102,client to server,192.168.56.103,2026-02-12 18:27:13.526676
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.00076,102,2026-02-12 18:27:13.527436,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.548165,192.168.56.102,0.020729,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000735,192.168.56.102,102,server to client,192.168.56.103,2026-02-12 18:27:13.548900
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:13.569427,102,client to server,0.020527,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.0004,192.168.56.102,2026-02-12 18:27:13.569827,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:13.589746,102,0.019919,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.590631,0.000885,192.168.56.102,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,client to server,0.018974,2026-02-12 18:27:13.609605,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.000938,102,server to client,192.168.56.103,2026-02-12 18:27:13.610543
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.630354,192.168.56.102,0.019811,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.00052,2026-02-12 18:27:13.630874,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.019174,102,client to server,2026-02-12 18:27:13.650048,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:13.651075,102,server to client,192.168.56.103,0.001027
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,2026-02-12 18:27:13.670715,client to server,0.01964,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:13.671650,102,0.000935,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.02092,2026-02-12 18:27:13.692570,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.001221,2026-02-12 18:27:13.693791,192.168.56.102,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.018935,client to server,2026-02-12 18:27:13.712726,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.000981,102,server to client,2026-02-12 18:27:13.713707,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.733103,192.168.56.102,0.019396,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.000825,2026-02-12 18:27:13.733928,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.017897,102,client to server,2026-02-12 18:27:13.751825,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000803,192.168.56.102,102,2026-02-12 18:27:13.752628,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.771910,192.168.56.102,102,0.019282,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.772628,192.168.56.102,0.000718,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.793992,192.168.56.102,102,0.021364,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.001401,2026-02-12 18:27:13.795393,192.168.56.102,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.017984,192.168.56.102,2026-02-12 18:27:13.813377,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.000439,102,2026-02-12 18:27:13.813816,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.01956,client to server,2026-02-12 18:27:13.833376,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:13.834280,102,server to client,0.000904,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.019465,102,client to server,2026-02-12 18:27:13.853745,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:13.854530,192.168.56.102,0.000785,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.020189,192.168.56.102,102,client to server,2026-02-12 18:27:13.874719,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.000672,2026-02-12 18:27:13.875391,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.030756,client to server,2026-02-12 18:27:13.906147,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,server to client,0.000599,2026-02-12 18:27:13.906746,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.022614,2026-02-12 18:27:13.929360,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.000367,server to client,192.168.56.103,2026-02-12 18:27:13.929727
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.0534,192.168.56.102,2026-02-12 18:27:13.983127,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.001129,server to client,2026-02-12 18:27:13.984256,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.041034,192.168.56.102,102,client to server,2026-02-12 18:27:14.025290,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,server to client,2026-02-12 18:27:14.025695,0.000405,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:14.045711,192.168.56.102,102,0.020016,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:14.046623,192.168.56.102,0.000912,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.019175,102,client to server,2026-02-12 18:27:14.065798,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,server to client,0.000963,2026-02-12 18:27:14.066761,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:14.086010,102,client to server,0.019249,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.000727,server to client,2026-02-12 18:27:14.086737,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:14.105668,192.168.56.102,102,client to server,0.018931,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,server to client,2026-02-12 18:27:14.106530,0.000862,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:14.125576,192.168.56.102,102,0.019046,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.00088,server to client,2026-02-12 18:27:14.126456,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:14.145808,102,0.019352,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,server to client,2026-02-12 18:27:14.146960,192.168.56.103,0.001152
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.018661,102,client to server,2026-02-12 18:27:14.165621,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.001032,server to client,2026-02-12 18:27:14.166653,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:14.185571,102,client to server,0.018918,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.001318,192.168.56.102,102,server to client,2026-02-12 18:27:14.186889,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.019484,192.168.56.102,102,client to server,2026-02-12 18:27:14.206373,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.000485,192.168.56.102,102,2026-02-12 18:27:14.206858,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.019686,2026-02-12 18:27:14.226544,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:14.226968,192.168.56.102,0.000424,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,2026-02-12 18:27:14.246952,102,client to server,0.019984,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:14.248029,192.168.56.102,0.001077,102,server to client,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,0.017856,2026-02-12 18:27:14.265885,102,client to server,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+192.168.56.102,102,0.000823,server to client,2026-02-12 18:27:14.266708,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+0.019608,192.168.56.102,102,client to server,2026-02-12 18:27:14.286316,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+2026-02-12 18:27:14.286830,192.168.56.102,102,192.168.56.103,server to client,0.000514
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+66,2026-02-12 18:27:14.330424,192.168.56.102,client to server,0.043594,192.168.56.103
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.372222,192.168.56.102,192.168.56.103,0,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.374612,192.168.56.103,192.168.56.102,0.00239,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+66,2026-02-12 18:27:11.376807,192.168.56.102,192.168.56.103,0.002195,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.402776,192.168.56.102,192.168.56.103,0.025969,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.403474,192.168.56.103,192.168.56.102,0.000698,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.422397,192.168.56.102,192.168.56.103,0.018923,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.422795,192.168.56.103,192.168.56.102,0.000398,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.442369,192.168.56.102,192.168.56.103,0.019574,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.442830,192.168.56.103,192.168.56.102,0.000461,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.464625,192.168.56.102,192.168.56.103,0.021795,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.465411,192.168.56.103,192.168.56.102,0.000786,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.492868,192.168.56.102,192.168.56.103,0.027457,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.496468,192.168.56.103,192.168.56.102,0.0036,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.503080,192.168.56.102,192.168.56.103,0.006612,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.504207,192.168.56.103,192.168.56.102,0.001127,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.523556,192.168.56.102,192.168.56.103,0.019349,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.524479,192.168.56.103,192.168.56.102,0.000923,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.542805,192.168.56.102,192.168.56.103,0.018326,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.543684,192.168.56.103,192.168.56.102,0.000879,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.562858,192.168.56.102,192.168.56.103,0.019174,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.563557,192.168.56.103,192.168.56.102,0.000699,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.581945,192.168.56.102,192.168.56.103,0.018388,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.582759,192.168.56.103,192.168.56.102,0.000814,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.603012,192.168.56.102,192.168.56.103,0.020253,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.603863,192.168.56.103,192.168.56.102,0.000851,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.622595,192.168.56.102,192.168.56.103,0.018732,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.623924,192.168.56.103,192.168.56.102,0.001329,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.644628,192.168.56.102,192.168.56.103,0.020704,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.645529,192.168.56.103,192.168.56.102,0.000901,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.664352,192.168.56.102,192.168.56.103,0.018823,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.665430,192.168.56.103,192.168.56.102,0.001078,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.684942,192.168.56.102,192.168.56.103,0.019512,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.685776,192.168.56.103,192.168.56.102,0.000834,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.705441,192.168.56.102,192.168.56.103,0.019665,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.705831,192.168.56.103,192.168.56.102,0.00039,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.727546,192.168.56.102,192.168.56.103,0.021715,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.728616,192.168.56.103,192.168.56.102,0.00107,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.748324,192.168.56.102,192.168.56.103,0.019708,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.749547,192.168.56.103,192.168.56.102,0.001223,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.767454,192.168.56.102,192.168.56.103,0.017907,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.768504,192.168.56.103,192.168.56.102,0.00105,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.788374,192.168.56.102,192.168.56.103,0.01987,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.789046,192.168.56.103,192.168.56.102,0.000672,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.811265,192.168.56.102,192.168.56.103,0.022219,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.812843,192.168.56.103,192.168.56.102,0.001578,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.831313,192.168.56.102,192.168.56.103,0.01847,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.831781,192.168.56.103,192.168.56.102,0.000468,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.852449,192.168.56.102,192.168.56.103,0.020668,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.853184,192.168.56.103,192.168.56.102,0.000735,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.873918,192.168.56.102,192.168.56.103,0.020734,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.874523,192.168.56.103,192.168.56.102,0.000605,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.893584,192.168.56.102,192.168.56.103,0.019061,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+118,2026-02-12 18:27:11.894817,192.168.56.103,192.168.56.102,0.001233,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+262,2026-02-12 18:27:11.908426,192.168.56.103,192.168.56.102,0.013609,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+238,2026-02-12 18:27:11.909803,192.168.56.103,192.168.56.102,0.001377,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+66,2026-02-12 18:27:11.910892,192.168.56.102,192.168.56.103,0.001089,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+174,2026-02-12 18:27:11.911067,192.168.56.103,192.168.56.102,0.000175,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+66,2026-02-12 18:27:11.914548,192.168.56.102,192.168.56.103,0.003481,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.917133,192.168.56.102,192.168.56.103,0.002585,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.917507,192.168.56.103,192.168.56.102,0.000374,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+66,2026-02-12 18:27:11.970339,192.168.56.102,192.168.56.103,0.052832,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.971856,192.168.56.102,192.168.56.103,0.001517,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:11.972882,192.168.56.103,192.168.56.102,0.001026,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+66,2026-02-12 18:27:11.975458,192.168.56.102,192.168.56.103,0.002576,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.012073,192.168.56.102,192.168.56.103,0.036615,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.012677,192.168.56.103,192.168.56.102,0.000604,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.031678,192.168.56.102,192.168.56.103,0.019001,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.031985,192.168.56.103,192.168.56.102,0.000307,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.052669,192.168.56.102,192.168.56.103,0.020684,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.052985,192.168.56.103,192.168.56.102,0.000316,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.073300,192.168.56.102,192.168.56.103,0.020315,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.073762,192.168.56.103,192.168.56.102,0.000462,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.094653,192.168.56.102,192.168.56.103,0.020891,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.095059,192.168.56.103,192.168.56.102,0.000406,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.114686,192.168.56.102,192.168.56.103,0.019627,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.115052,192.168.56.103,192.168.56.102,0.000366,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.135453,192.168.56.102,192.168.56.103,0.020401,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.135762,192.168.56.103,192.168.56.102,0.000309,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.154967,192.168.56.102,192.168.56.103,0.019205,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.155460,192.168.56.103,192.168.56.102,0.000493,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.175280,192.168.56.102,192.168.56.103,0.01982,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.175607,192.168.56.103,192.168.56.102,0.000327,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.195679,192.168.56.102,192.168.56.103,0.020072,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.196208,192.168.56.103,192.168.56.102,0.000529,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.215967,192.168.56.102,192.168.56.103,0.019759,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.216406,192.168.56.103,192.168.56.102,0.000439,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.235516,192.168.56.102,192.168.56.103,0.01911,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.235884,192.168.56.103,192.168.56.102,0.000368,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.255548,192.168.56.102,192.168.56.103,0.019664,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.255943,192.168.56.103,192.168.56.102,0.000395,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.275509,192.168.56.102,192.168.56.103,0.019566,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.275830,192.168.56.103,192.168.56.102,0.000321,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.297977,192.168.56.102,192.168.56.103,0.022147,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.298488,192.168.56.103,192.168.56.102,0.000511,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.320462,192.168.56.102,192.168.56.103,0.021974,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.320963,192.168.56.103,192.168.56.102,0.000501,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.339384,192.168.56.102,192.168.56.103,0.018421,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.339805,192.168.56.103,192.168.56.102,0.000421,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.359604,192.168.56.102,192.168.56.103,0.019799,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.360540,192.168.56.103,192.168.56.102,0.000936,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.377857,192.168.56.102,192.168.56.103,0.017317,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.378400,192.168.56.103,192.168.56.102,0.000543,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.398553,192.168.56.102,192.168.56.103,0.020153,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.398943,192.168.56.103,192.168.56.102,0.00039,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.420311,192.168.56.102,192.168.56.103,0.021368,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.420744,192.168.56.103,192.168.56.102,0.000433,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.440484,192.168.56.102,192.168.56.103,0.01974,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.440947,192.168.56.103,192.168.56.102,0.000463,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.462441,192.168.56.102,192.168.56.103,0.021494,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.462875,192.168.56.103,192.168.56.102,0.000434,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.486956,192.168.56.102,192.168.56.103,0.024081,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.487460,192.168.56.103,192.168.56.102,0.000504,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.511454,192.168.56.102,192.168.56.103,0.023994,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.512021,192.168.56.103,192.168.56.102,0.000567,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.538129,192.168.56.102,192.168.56.103,0.026108,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.538671,192.168.56.103,192.168.56.102,0.000542,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.557973,192.168.56.102,192.168.56.103,0.019302,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.558588,192.168.56.103,192.168.56.102,0.000615,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.578595,192.168.56.102,192.168.56.103,0.020007,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.579514,192.168.56.103,192.168.56.102,0.000919,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.602217,192.168.56.102,192.168.56.103,0.022703,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.602679,192.168.56.103,192.168.56.102,0.000462,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.615466,192.168.56.102,192.168.56.103,0.012787,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.615864,192.168.56.103,192.168.56.102,0.000398,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.636394,192.168.56.102,192.168.56.103,0.02053,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.636715,192.168.56.103,192.168.56.102,0.000321,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.656825,192.168.56.102,192.168.56.103,0.02011,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.657474,192.168.56.103,192.168.56.102,0.000649,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.681752,192.168.56.102,192.168.56.103,0.024278,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.682424,192.168.56.103,192.168.56.102,0.000672,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.698667,192.168.56.102,192.168.56.103,0.016243,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.699074,192.168.56.103,192.168.56.102,0.000407,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.719491,192.168.56.102,192.168.56.103,0.020417,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.719892,192.168.56.103,192.168.56.102,0.000401,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.740393,192.168.56.102,192.168.56.103,0.020501,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.741030,192.168.56.103,192.168.56.102,0.000637,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.760488,192.168.56.102,192.168.56.103,0.019458,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.761091,192.168.56.103,192.168.56.102,0.000603,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.780517,192.168.56.102,192.168.56.103,0.019426,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.780838,192.168.56.103,192.168.56.102,0.000321,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.801678,192.168.56.102,192.168.56.103,0.02084,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.802067,192.168.56.103,192.168.56.102,0.000389,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.820855,192.168.56.102,192.168.56.103,0.018788,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.821172,192.168.56.103,192.168.56.102,0.000317,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.841339,192.168.56.102,192.168.56.103,0.020167,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.842087,192.168.56.103,192.168.56.102,0.000748,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.863206,192.168.56.102,192.168.56.103,0.021119,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.863673,192.168.56.103,192.168.56.102,0.000467,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.882725,192.168.56.102,192.168.56.103,0.019052,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.883407,192.168.56.103,192.168.56.102,0.000682,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.902641,192.168.56.102,192.168.56.103,0.019234,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.903045,192.168.56.103,192.168.56.102,0.000404,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.923294,192.168.56.102,192.168.56.103,0.020249,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.923673,192.168.56.103,192.168.56.102,0.000379,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.943707,192.168.56.102,192.168.56.103,0.020034,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.944224,192.168.56.103,192.168.56.102,0.000517,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.964244,192.168.56.102,192.168.56.103,0.02002,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.964583,192.168.56.103,192.168.56.102,0.000339,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.982989,192.168.56.102,192.168.56.103,0.018406,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:12.983523,192.168.56.103,192.168.56.102,0.000534,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.004716,192.168.56.102,192.168.56.103,0.021193,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.007261,192.168.56.103,192.168.56.102,0.002545,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.029981,192.168.56.102,192.168.56.103,0.02272,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.032838,192.168.56.103,192.168.56.102,0.002857,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.048725,192.168.56.102,192.168.56.103,0.015887,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.049043,192.168.56.103,192.168.56.102,0.000318,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.068631,192.168.56.102,192.168.56.103,0.019588,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.069221,192.168.56.103,192.168.56.102,0.00059,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.088612,192.168.56.102,192.168.56.103,0.019391,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.089747,192.168.56.103,192.168.56.102,0.001135,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.109276,192.168.56.102,192.168.56.103,0.019529,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.109835,192.168.56.103,192.168.56.102,0.000559,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.131545,192.168.56.102,192.168.56.103,0.02171,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.132302,192.168.56.103,192.168.56.102,0.000757,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.150910,192.168.56.102,192.168.56.103,0.018608,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.151714,192.168.56.103,192.168.56.102,0.000804,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.172486,192.168.56.102,192.168.56.103,0.020772,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.172865,192.168.56.103,192.168.56.102,0.000379,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.194384,192.168.56.102,192.168.56.103,0.021519,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.194888,192.168.56.103,192.168.56.102,0.000504,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.215401,192.168.56.102,192.168.56.103,0.020513,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.216401,192.168.56.103,192.168.56.102,0.001,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.236258,192.168.56.102,192.168.56.103,0.019857,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.236622,192.168.56.103,192.168.56.102,0.000364,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.255571,192.168.56.102,192.168.56.103,0.018949,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.257505,192.168.56.103,192.168.56.102,0.001934,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.275904,192.168.56.102,192.168.56.103,0.018399,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.276842,192.168.56.103,192.168.56.102,0.000938,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.296689,192.168.56.102,192.168.56.103,0.019847,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.297746,192.168.56.103,192.168.56.102,0.001057,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.316546,192.168.56.102,192.168.56.103,0.0188,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.317264,192.168.56.103,192.168.56.102,0.000718,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.338196,192.168.56.102,192.168.56.103,0.020932,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.339286,192.168.56.103,192.168.56.102,0.00109,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.361856,192.168.56.102,192.168.56.103,0.02257,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.362764,192.168.56.103,192.168.56.102,0.000908,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.380858,192.168.56.102,192.168.56.103,0.018094,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.382595,192.168.56.103,192.168.56.102,0.001737,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.401638,192.168.56.102,192.168.56.103,0.019043,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.402010,192.168.56.103,192.168.56.102,0.000372,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.422570,192.168.56.102,192.168.56.103,0.02056,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.423508,192.168.56.103,192.168.56.102,0.000938,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.444276,192.168.56.102,192.168.56.103,0.020768,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.444701,192.168.56.103,192.168.56.102,0.000425,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.463723,192.168.56.102,192.168.56.103,0.019022,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.464196,192.168.56.103,192.168.56.102,0.000473,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.484207,192.168.56.102,192.168.56.103,0.020011,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.484690,192.168.56.103,192.168.56.102,0.000483,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.505737,192.168.56.102,192.168.56.103,0.021047,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.506582,192.168.56.103,192.168.56.102,0.000845,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.526676,192.168.56.102,192.168.56.103,0.020094,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.527436,192.168.56.103,192.168.56.102,0.00076,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.548165,192.168.56.102,192.168.56.103,0.020729,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.548900,192.168.56.103,192.168.56.102,0.000735,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.569427,192.168.56.102,192.168.56.103,0.020527,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.569827,192.168.56.103,192.168.56.102,0.0004,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.589746,192.168.56.102,192.168.56.103,0.019919,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.590631,192.168.56.103,192.168.56.102,0.000885,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.609605,192.168.56.102,192.168.56.103,0.018974,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.610543,192.168.56.103,192.168.56.102,0.000938,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.630354,192.168.56.102,192.168.56.103,0.019811,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.630874,192.168.56.103,192.168.56.102,0.00052,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.650048,192.168.56.102,192.168.56.103,0.019174,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.651075,192.168.56.103,192.168.56.102,0.001027,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.670715,192.168.56.102,192.168.56.103,0.01964,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.671650,192.168.56.103,192.168.56.102,0.000935,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.692570,192.168.56.102,192.168.56.103,0.02092,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.693791,192.168.56.103,192.168.56.102,0.001221,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.712726,192.168.56.102,192.168.56.103,0.018935,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.713707,192.168.56.103,192.168.56.102,0.000981,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.733103,192.168.56.102,192.168.56.103,0.019396,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.733928,192.168.56.103,192.168.56.102,0.000825,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.751825,192.168.56.102,192.168.56.103,0.017897,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.752628,192.168.56.103,192.168.56.102,0.000803,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.771910,192.168.56.102,192.168.56.103,0.019282,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.772628,192.168.56.103,192.168.56.102,0.000718,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.793992,192.168.56.102,192.168.56.103,0.021364,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.795393,192.168.56.103,192.168.56.102,0.001401,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.813377,192.168.56.102,192.168.56.103,0.017984,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.813816,192.168.56.103,192.168.56.102,0.000439,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.833376,192.168.56.102,192.168.56.103,0.01956,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.834280,192.168.56.103,192.168.56.102,0.000904,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.853745,192.168.56.102,192.168.56.103,0.019465,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.854530,192.168.56.103,192.168.56.102,0.000785,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.874719,192.168.56.102,192.168.56.103,0.020189,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.875391,192.168.56.103,192.168.56.102,0.000672,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.906147,192.168.56.102,192.168.56.103,0.030756,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.906746,192.168.56.103,192.168.56.102,0.000599,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.929360,192.168.56.102,192.168.56.103,0.022614,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.929727,192.168.56.103,192.168.56.102,0.000367,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.983127,192.168.56.102,192.168.56.103,0.0534,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:13.984256,192.168.56.103,192.168.56.102,0.001129,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.025290,192.168.56.102,192.168.56.103,0.041034,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.025695,192.168.56.103,192.168.56.102,0.000405,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.045711,192.168.56.102,192.168.56.103,0.020016,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.046623,192.168.56.103,192.168.56.102,0.000912,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.065798,192.168.56.102,192.168.56.103,0.019175,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.066761,192.168.56.103,192.168.56.102,0.000963,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.086010,192.168.56.102,192.168.56.103,0.019249,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.086737,192.168.56.103,192.168.56.102,0.000727,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.105668,192.168.56.102,192.168.56.103,0.018931,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.106530,192.168.56.103,192.168.56.102,0.000862,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.125576,192.168.56.102,192.168.56.103,0.019046,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.126456,192.168.56.103,192.168.56.102,0.00088,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.145808,192.168.56.102,192.168.56.103,0.019352,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.146960,192.168.56.103,192.168.56.102,0.001152,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.165621,192.168.56.102,192.168.56.103,0.018661,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.166653,192.168.56.103,192.168.56.102,0.001032,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.185571,192.168.56.102,192.168.56.103,0.018918,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.186889,192.168.56.103,192.168.56.102,0.001318,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.206373,192.168.56.102,192.168.56.103,0.019484,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.206858,192.168.56.103,192.168.56.102,0.000485,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.226544,192.168.56.102,192.168.56.103,0.019686,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.226968,192.168.56.103,192.168.56.102,0.000424,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.246952,192.168.56.102,192.168.56.103,0.019984,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.248029,192.168.56.103,192.168.56.102,0.001077,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.265885,192.168.56.102,192.168.56.103,0.017856,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.266708,192.168.56.103,192.168.56.102,0.000823,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.286316,192.168.56.102,192.168.56.103,0.019608,client to server
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+102,2026-02-12 18:27:14.286830,192.168.56.103,192.168.56.102,0.000514,server to client
+packet_length,timestamp,source_ip,destination_ip,time_difference,direction
+66,2026-02-12 18:27:14.330424,192.168.56.102,192.168.56.103,0.043594,client to server

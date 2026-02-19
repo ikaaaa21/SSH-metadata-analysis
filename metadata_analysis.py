@@ -5,7 +5,7 @@ import csv
 client_ip = "192.168.56.102"
 server_ip = "192.168.56.103"
 
-previous_packet_time = None
+previous_packet_time = {}
 
 capture = pyshark.FileCapture(
     input_file='data/shortCommand_ls_01.pcap', 
@@ -24,18 +24,19 @@ with open(filename, 'a', newline='') as csvfile:
 
    for packet in capture:
       try:
-         if packet.ip.src == client_ip and packet.ip.dst == server_ip:
+         if int(packet.tcp.srcport) == 22:
             direction = "client to server"
 
-         elif packet.ip.src == server_ip and packet.ip.dst == client_ip:
+         elif int(packet.tcp.dstport) == 22:
             direction = "server to client"
 
-         if previous_packet_time is None:
+
+         if packet.sniff_time not in previous_packet_time:
             time_difference = 0 
          else:
-            time_difference = (packet.sniff_time - previous_packet_time).total_seconds()
+            time_difference = (packet.sniff_time - previous_packet_time[packet.sniff_time]).total_seconds()
       
-         previous_packet_time = packet.sniff_time
+         previous_packet_time[packet.sniff_time] = packet.sniff_time
 
          print(
             f'packet_length = {packet.length},'

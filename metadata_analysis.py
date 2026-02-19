@@ -22,40 +22,40 @@ with open(filename, 'a', newline='') as csvfile:
       'destination_ip', 'time_difference', 'direction'
    ])
 
-for packet in capture:
-    try:
-      if packet.ip.src == client_ip and packet.ip.dst == server_ip:
-         direction = "client to server"
+   for packet in capture:
+      try:
+         if packet.ip.src == client_ip and packet.ip.dst == server_ip:
+            direction = "client to server"
 
-      elif packet.ip.src == server_ip and packet.ip.dst == client_ip:
-         direction = "server to client"
+         elif packet.ip.src == server_ip and packet.ip.dst == client_ip:
+            direction = "server to client"
 
-      if previous_packet_time is None:
-         time_difference = 0 
-      else:
-         time_difference = (packet.sniff_time - previous_packet_time).total_seconds()
-   
-      previous_packet_time = packet.sniff_time
-
-      print(
-         f'packet_length = {packet.length},'
-         f'timestamp = {packet.sniff_time},'
-         f'source_ip = {packet.ip.src},'
-         f'destination_ip = {packet.ip.dst},'
-         f'time_difference = {time_difference},'
-         f'direction = {direction}'
-      )
+         if previous_packet_time is None:
+            time_difference = 0 
+         else:
+            time_difference = (packet.sniff_time - previous_packet_time).total_seconds()
       
-      csvwriter.writerow([
-         packet.length,
-         packet.sniff_time,
-         packet.ip.src,
-         packet.ip.dst,
-         time_difference,
-         direction
-      ])
+         previous_packet_time = packet.sniff_time
 
-    except AttributeError:
-        continue
+         print(
+            f'packet_length = {packet.length},'
+            f'timestamp = {packet.sniff_time},'
+            f'source_ip = {packet.ip.src},'
+            f'destination_ip = {packet.ip.dst},'
+            f'time_difference = {time_difference},'
+            f'direction = {direction}'
+         )
+         
+         csvwriter.writerow([
+            packet.length,
+            packet.sniff_time,
+            packet.ip.src,
+            packet.ip.dst,
+            time_difference,
+            direction
+         ])
+
+      except AttributeError:
+         continue
 
 capture.close()
